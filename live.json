@@ -21,8 +21,18 @@
       "changeable": 0
     },
     {
+      "key": "南瓜",
+      "name": "☆南瓜影视☆",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "玩偶哥哥",
-      "name": "☆玩偶视频☆",
+      "name": "☆玩偶丨4K☆",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -32,7 +42,7 @@
     },
     {
       "key": "4KHDR",
-      "name": "☆4K影视☆",
+      "name": "☆影视丨4K☆",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -42,7 +52,7 @@
     },
     {
       "key": "影探",
-      "name": "☆影探4K☆",
+      "name": "☆影探丨4K☆",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/影探.js"
@@ -88,20 +98,19 @@
       "jar": "./lib/sx.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
     },
     {
-      "key": "南瓜",
-      "name": "☆南瓜影视☆",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "金鹰资源",
       "name": "☆金鹰影视☆",
       "type": 1,
       "api": "https://jyzyapi.com/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "速博资源",
+      "name": "☆速播影视☆",
+      "type": 1,
+      "api": "https://subocaiji.com/api.php/provide/vod/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1
